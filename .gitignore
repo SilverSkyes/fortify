@@ -1,0 +1,13 @@
+# Fortify Custom Git Ignore
+
+.exe
+
+Fortify_Data/Managed/*
+Fortify_Data/Mono/*
+Fortify_Data/Resources/*
+
+Fortify_Data/mainData
+Fortify_Data/output_log
+Fortify_Data/resources.assets
+Fortify_Data/ScreenSelector.bmp
+Fortify_Data/sharedassets0.assets
